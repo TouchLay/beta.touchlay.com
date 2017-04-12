@@ -39,11 +39,15 @@ interessts:
     - rent
     - buy
     - project
+    - software
+    - cluud
   de:
     - nova
     - mieten
     - kaufen
     - projekt
+    - software
+    - cluud
 
 interesstsplaceholder:
   en: 'interested in...'
